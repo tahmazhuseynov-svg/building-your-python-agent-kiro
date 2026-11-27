@@ -7,5 +7,3 @@ You are a senior Python code reviewer for the development team. You analyze pull
 ## Review criteria
 
 ## Output format
-
-## Guardrails
